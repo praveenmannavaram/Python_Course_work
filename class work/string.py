@@ -10,6 +10,10 @@ name1 = "kumar"
 print(name + name1)        # praveenkumar
 print(name + ' ' + name1)  # praveen kumar
 
+#Output:-
+#praveenkumar
+#praveen kumar
+
 # 3. Repetition
 print(name * 10)
 print('*' * 100)

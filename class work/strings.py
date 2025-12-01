@@ -61,6 +61,8 @@ print("212345".zfill(6))
 '''
 s = "python programming language"
 print(s.split())
-print(s.split(p))
-print(s.split(m))
-print(s.split(g))
+print(s.split('p'))
+print(s.split('m'))
+print(s.split('g'))
+
+

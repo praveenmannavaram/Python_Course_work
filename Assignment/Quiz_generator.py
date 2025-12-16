@@ -138,3 +138,169 @@ def run_quiz():
     else:
         print("Keep learning! You'll get better!")
 run_quiz()
+
+##Output:
+##Welcome to the Python Quiz Game!
+##
+##Question 1: What is the output of: print(type(()))?
+##a) <class 'tuple'>
+##b) <class 'list'>
+##c) <class 'dict'>
+##d) <class 'set'>
+##Your answer (a/b/c/d): c
+##Wrong! The correct answer is 'a'
+##
+##Question 2: What does len() function do?
+##a) Calculates size of int
+##b) Returns length
+##c) Finds memory usage
+##d) Loops items
+##Your answer (a/b/c/d): b
+##✅Correct!
+##
+##Question 3: What does the 'pass' statement do?
+##a) Exits loop
+##b) Does nothing
+##c) Skips iteration
+##d) Returns a value
+##Your answer (a/b/c/d): b
+##✅Correct!
+##
+##Question 4: Which data type is immutable?
+##a) list
+##b) dict
+##c) set
+##d) tuple
+##Your answer (a/b/c/d): b
+##Wrong! The correct answer is 'd'
+##
+##Question 5: What is the correct file extension for Python files?
+##a) .pt
+##b) .python
+##c) .py
+##d) .pyt
+##Your answer (a/b/c/d): b
+##Wrong! The correct answer is 'c'
+##
+##Question 6: Which keyword is used to handle exceptions?
+##a) exception
+##b) try
+##c) throw
+##bd) error
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'b'
+##
+##Question 7: Which keyword creates a loop?
+##a) repeat
+##b) loop
+##c) for
+##bd) iterate
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'c'
+##
+##Question 8: How do you start a comment in Python?
+##a) //
+##bb) <!--
+##c) #
+##d) **
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'c'
+##
+##Question 9: Which symbol is used for exponent in Python?
+##a) ^
+##b) **b
+##c) exp()
+##d) %
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'b'
+##
+##Question 10: What defines a block of code in Python?
+##a) Brackets {}
+##b) Parentheses ()
+##bc) Indentation
+##d) Curly braces
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'c'
+##
+##Question 11: What is the output of: type({})?
+##a) <class 'set'>
+##bb) <class 'tuple'>
+##c) <class 'dict'>
+##d) <class 'list'>
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'c'
+##
+##Question 12: Which keyword is used to import a module?
+##a) include
+##bb) import
+##c) using
+##d) require
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'b'
+##
+##Question 13: What is the output of: len([1,2,3])?
+##ba) 3
+##b) 2
+##c) 1
+##d) Error
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'a'
+##
+##Question 14: Which operator checks equality?
+##ba) =
+##b) ==
+##c) !=
+##d) ===
+##Your answer (a/b/c/d): 
+##Wrong! The correct answer is 'b'
+##
+##Question 15: Which keyword is used to define a function in Python?
+##a) function
+##b) def
+##c) fun
+##d) define
+##Your answer (a/b/c/d): b
+##✅Correct!
+##
+##Question 16: Which method is used to add an item to a list?
+##a) add()
+##b) insert()
+##c) append()
+##d) push()
+##Your answer (a/b/c/d): b
+##Wrong! The correct answer is 'c'
+##
+##Question 17: What is the output of: 3 * '5'?
+##a) 15
+##b) 555
+##c) Error
+##d) None
+##Your answer (a/b/c/d): b
+##✅Correct!
+##
+##Question 18: What is the output of bool(0)?
+##a) True
+##b) False
+##c) 0
+##d) None
+##Your answer (a/b/c/d): b
+##✅Correct!
+##
+##Question 19: Which function converts a string to an integer?
+##a) str()
+##b) float()
+##c) int()
+##d) chr()
+##Your answer (a/b/c/d): b
+##Wrong! The correct answer is 'c'
+##
+##Question 20: How do you create a set in Python?
+##a) []
+##b) ()
+##c) {}
+##d) set()
+##bYour answer (a/b/c/d): 
+##Wrong! The correct answer is 'd'
+##
+##Your Final Score: 5 / 20
+##Keep learning! You'll get better!
